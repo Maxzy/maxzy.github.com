@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Maxzy Blog]]></title>
   <link href="http://Maxzy.github.io/atom.xml" rel="self"/>
   <link href="http://Maxzy.github.io/"/>
-  <updated>2013-06-21T23:58:09+08:00</updated>
+  <updated>2013-06-22T00:01:54+08:00</updated>
   <id>http://Maxzy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Maxzy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,11 @@
     <link href="http://Maxzy.github.io/blog/2013/06/21/fei-tong-fan-xiang-de-ping-guo-yan-gao/"/>
     <updated>2013-06-21T23:57:00+08:00</updated>
     <id>http://Maxzy.github.io/blog/2013/06/21/fei-tong-fan-xiang-de-ping-guo-yan-gao</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h5>非同凡响的苹果广告</h5>
+
+<p>阿尔伯特爱因斯坦、鲍勃迪伦、马丁路德金、理察德布兰森、约翰列侬、巴克敏斯特富勒、托马斯阿尔瓦爱迪生、穆罕默德阿里、泰德特纳、玛丽亚卡拉斯、圣雄甘地、阿梅莉亚埃尔哈特、阿尔弗雷德希区柯克、玛莎葛兰姆、吉姆汉森（连同科米蛙）、弗兰克劳埃德赖特与毕加索</p>
+
+<p>老乔强势重回苹果以后，开始重新挑选新的广告代理商。这个时候他想到了为麦金塔成功打造了“1984”经典广告的Chiat/Day公司。李.克劳，Chiat/Day公司的创意总监，再一次没有让乔布斯失望。当他和他的团队把创意脚本呈现到乔布斯面前的时候，乔布斯不禁感叹：“显然李还是那么爱苹果&hellip;是他和他的团队带来了无与伦比的创意&mdash;非同凡响.</p>
 ]]></content>
   </entry>
   
