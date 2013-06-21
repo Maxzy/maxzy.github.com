@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Maxzy.github.io/atom.xml" rel="self"/>
   <link href="http://Maxzy.github.io/"/>
-  <updated>2013-06-21T23:54:24+08:00</updated>
+  <updated>2013-06-21T23:58:09+08:00</updated>
   <id>http://Maxzy.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[非同凡响的苹果广告]]></title>
+    <link href="http://Maxzy.github.io/blog/2013/06/21/fei-tong-fan-xiang-de-ping-guo-yan-gao/"/>
+    <updated>2013-06-21T23:57:00+08:00</updated>
+    <id>http://Maxzy.github.io/blog/2013/06/21/fei-tong-fan-xiang-de-ping-guo-yan-gao</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
